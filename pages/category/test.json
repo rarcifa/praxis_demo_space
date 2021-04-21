@@ -1,0 +1,693 @@
+{
+    "results": [
+    {
+
+        "data": {
+            "id": "2510246",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekrekken/tiger-handdoekrek-items-2-armig-rvs-geborsteld/2510246",
+            "Prijs": 69.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2510246/s01/origin.png",
+            "core_gtin": 4008912837017,
+            "description": "Het 2-armige handdoekrek uit de Tiger Items serie is uitgevoerd in de kleur RVS geborsteld. De beweegbare armen bieden plaats aan twee handdoeken en geven optimaal invulling aan de ruimte rondom de wastafel. Het 2-armige handdoekrek is eenvoudig te b",
+            "lister_data": "{\"code\":\"000000000002510246\",\"name\":\"Tiger handdoekrek Items 2-armig RVS geborsteld\",\"url\":\"/c//p/000000000002510246\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":69.99,\"priceType\":\"BUY\",\"formattedValue\":\"69,99 €\"},\"baseProduct\":\"base_5020536\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2510246/s01/origin.png\",\"altText\":\"Tiger handdoekrek Items 2-armig RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912837017\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Schroeven",
+            "groups": [
+                {
+                    "group_id": "l52",
+                    "display_name": "Handdoekrekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger handdoekrek Items 2-armig RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5044233",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/doucherekken/tiger-douchemand-items-rvs-geborsteld/5044233",
+            "Prijs": 82.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5044233/s01/origin.png",
+            "core_gtin": 4008912810010,
+            "description": "Het Tiger Items douchemandje uitgevoerd in geborsteld RVS is dé oplossing voor het opbergen van de diverse flacons met shampoo en douchegel in de badkamer. De vlakke bodem en de hoge rand van de douchekorf zorgen ervoor dat de verzorgingsproducten st",
+            "lister_data": "{\"code\":\"000000000005044233\",\"name\":\"Tiger douchemand Items RVS geborsteld\",\"url\":\"/c//p/000000000005044233\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":82.99,\"priceType\":\"BUY\",\"formattedValue\":\"82,99 €\"},\"baseProduct\":\"base_5044233\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5044233/s01/origin.png\",\"altText\":\"Tiger douchemand Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912810010\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l19",
+                    "display_name": "Doucherekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger douchemand Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2510402",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/zeepdispensers/tiger-zeepdispenser-items-rvs-geborsteld/2510402",
+            "Prijs": 42.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2510402/s01/origin.png",
+            "core_gtin": 4008912835013,
+            "description": "De zeepdispenser uit de Tiger Items serie is uitgevoerd in de kleur RVS geborsteld in combinatie met mat glas. Het uitneembare glazen reservoir is snel en makkelijk te vullen met vloeibare zeep en het zeeppompje is eenvoudig op de gewenste positie aa",
+            "lister_data": "{\"code\":\"000000000002510402\",\"name\":\"Tiger zeepdispenser Items RVS geborsteld\",\"url\":\"/c//p/000000000002510402\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":42.99,\"priceType\":\"BUY\",\"formattedValue\":\"42,99 €\"},\"baseProduct\":\"base_2510402\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2510402/s01/origin.png\",\"altText\":\"Tiger zeepdispenser Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912835013\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l39",
+                    "display_name": "Zeepdispensers",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger zeepdispenser Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5044232",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/doucherekken/tiger-douchemand-items-chroom/5044232",
+            "Prijs": 82.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5044232/s01/origin.png",
+            "core_gtin": 4008912810003,
+            "description": "Het Tiger Items douchemandje uitgevoerd in chroom is dé oplossing voor het opbergen van de diverse flacons met shampoo en douchegel in de badkamer. De vlakke bodem en de hoge rand van de douchekorf zorgen ervoor dat de verzorgingsproducten stevig in ",
+            "lister_data": "{\"code\":\"000000000005044232\",\"name\":\"Tiger douchemand Items chroom\",\"url\":\"/c//p/000000000005044232\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":82.99,\"priceType\":\"BUY\",\"formattedValue\":\"82,99 €\"},\"baseProduct\":\"base_5044232\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5044232/s01/origin.png\",\"altText\":\"Tiger douchemand Items chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912810003\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l19",
+                    "display_name": "Doucherekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger douchemand Items chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5020547",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekhaken/tiger-haak-items-rvs-chroom/5020547",
+            "Prijs": 13.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5020547/s01/origin.png",
+            "core_gtin": 4008912845005,
+            "description": "De haak uit de Tiger Items serie is uitgevoerd in de kleur chroom en voorzien van dubbelzijdige tape waardoor het artikel in een handomdraai te monteren is. De haak is geschikt voor het ophangen van artikelen tot een gewicht van 1 kg. Het Items conce",
+            "lister_data": "{\"code\":\"000000000005020547\",\"name\":\"Tiger haak Items RVS chroom\",\"url\":\"/c//p/000000000005020547\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":13.99,\"priceType\":\"BUY\",\"formattedValue\":\"13,99 €\"},\"baseProduct\":\"base_5020547\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5020547/s01/origin.png\",\"altText\":\"Tiger haak Items RVS chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912845005\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "Bevestiging/aanbreng methode": "Plakstrip",
+            "groups": [
+                {
+                    "group_id": "l36",
+                    "display_name": "Handdoekhaken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger haak Items RVS chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5020540",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekhaken/tiger-haak-items-groot-chroom/5020540",
+            "Prijs": 16.49,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5020540/s01/origin.png",
+            "core_gtin": 4008912846002,
+            "description": "De Tiger Items haak groot is uitgevoerd in de kleur chroom. De haak is eenvoudig te monteren op diverse ondergronden met de bijgeleverde bevestigingsmaterialen en geschikt voor een belasting tot 3 kg. Bij de montage wordt gebruik gemaakt van een muur",
+            "lister_data": "{\"code\":\"000000000005020540\",\"name\":\"Tiger haak Items groot chroom\",\"url\":\"/c//p/000000000005020540\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":16.49,\"priceType\":\"BUY\",\"formattedValue\":\"16,49 €\"},\"baseProduct\":\"base_5020547\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5020540/s01/origin.png\",\"altText\":\"Tiger haak Items groot chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912846002\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l36",
+                    "display_name": "Handdoekhaken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger haak Items groot chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5353021",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/toiletborstels-houders/tiger-toiletborstel-met-houder-items-chroom/5353021",
+            "Prijs": 73.39,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5353021/s01/origin.png",
+            "core_gtin": 4008912824406,
+            "description": "De Tiger Items toiletborstel met houder in de kleur chroom is vervaardigd uit hoogwaardige materialen en ontworpen voor optimaal gebruiksgemak in de herkenbare Items stijl. Zo is de RVS borstelpot over de volledige lengte voorzien van een kunststof b",
+            "lister_data": "{\"code\":\"000000000005353021\",\"name\":\"Tiger toiletborstel met houder Items chroom\",\"url\":\"/c//p/000000000005353021\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":73.39,\"priceType\":\"BUY\",\"formattedValue\":\"73,39 €\"},\"baseProduct\":\"base_5353021\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5353021/s01/origin.png\",\"altText\":\"Tiger toiletborstel met houder Items chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912824406\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l40",
+                    "display_name": "Toiletborstels & -houders",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger toiletborstel met houder Items chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5010010",
+            "ean": 4008912813011,
+            "url": "/badkamer-keuken-wonen/badkamer/douche/douchesets/tiger-doucheset-massage-items-rvs/5010010",
+            "Prijs": 129.0,
+            "image_url": "https://www.acc.praxis.nl/imagescaler/8807407091742-300-300.jpg",
+            "description": "Items doucheset Massage van Tiger is onderdeel van de eenvoudig en strak vormgegeven Items serie. De doucheset is gemaakt van duurzame materialen en uitgevoerd in RVS. De set bestaat uit een handdouche, glijstang en doucheslang. De handdouche beschik",
+            "lister_data": "{\"code\":\"000000000005010010\",\"name\":\"Tiger doucheset Massage Items RVS\",\"url\":\"/c//p/000000000005010010\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":129.0,\"priceType\":\"BUY\",\"formattedValue\":\"129,00 €\"},\"baseProduct\":\"base_2421956\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5010010/s01/origin.png\",\"altText\":\"Tiger doucheset Massage Items RVS\"}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"betaal je bestelling vooraf en haal op, binnen het gekozen tijdslot van twee uur, in jouw favoriete winkel.\"}],\"ean\":\"4008912813011\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}]}",
+            "deactivated": false,
+            "groups": [
+                {
+                    "group_id": "l7",
+                    "display_name": "Douchesets",
+                    "path": "/catalog01/l1/l2/l3",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l3",
+                            "display_name": "Douche"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger doucheset Massage Items RVS",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2421956",
+            "ean": 4008912813004,
+            "url": "/badkamer-keuken-wonen/badkamer/douche/douchesets/tiger-doucheset-massage-items-chroom/2421956",
+            "Prijs": 124.0,
+            "image_url": "https://www.acc.praxis.nl/imagescaler/8807407026206-300-300.jpg",
+            "description": "Items doucheset Massage van Tiger is onderdeel van de eenvoudig en strak vormgegeven Items serie. De doucheset is gemaakt van duurzame materialen en uitgevoerd in chroom. De set bestaat uit een handdouche, glijstang en doucheslang. De handdouche besc",
+            "lister_data": "{\"code\":\"000000000002421956\",\"name\":\"Tiger doucheset Massage Items chroom\",\"url\":\"/c//p/000000000002421956\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":124.0,\"priceType\":\"BUY\",\"formattedValue\":\"124,00 €\"},\"baseProduct\":\"base_2421956\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2421956/s01/origin.png\",\"altText\":\"Tiger doucheset Massage Items chroom\"}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"betaal je bestelling vooraf en haal op, binnen het gekozen tijdslot van twee uur, in jouw favoriete winkel.\"}],\"ean\":\"4008912813004\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}]}",
+            "deactivated": false,
+            "groups": [
+                {
+                    "group_id": "l7",
+                    "display_name": "Douchesets",
+                    "path": "/catalog01/l1/l2/l3",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l3",
+                            "display_name": "Douche"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger doucheset Massage Items chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2509990",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekrekken/tiger-handdoekrek-dubbel-items-rvs-geborsteld/2509990",
+            "Prijs": 84.49,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2509990/s01/origin.png",
+            "core_gtin": 4008912836010,
+            "description": "Het handdoekrek uit de Tiger Items serie is uitgevoerd in geborsteld RVS en biedt plaats aan twee handdoeken. Het accessoire kan je eenvoudig aan de muur bevestigen zonder dat de bijgeleverde bevestigingsmaterialen zichtbaar zijn. Het Items concept b",
+            "lister_data": "{\"code\":\"000000000002509990\",\"name\":\"Tiger handdoekrek dubbel Items RVS geborsteld\",\"url\":\"/c//p/000000000002509990\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":84.49,\"priceType\":\"BUY\",\"formattedValue\":\"84,49 €\"},\"baseProduct\":\"base_2509990\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2509990/s01/origin.png\",\"altText\":\"Tiger handdoekrek dubbel Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912836010\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l52",
+                    "display_name": "Handdoekrekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger handdoekrek dubbel Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5020536",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekrekken/tiger-handdoekrek-items-2-armig-rvs-chroom/5020536",
+            "Prijs": 69.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5020536/s01/origin.png",
+            "core_gtin": 4008912837000,
+            "description": "Het 2-armige handdoekrek uit de Tiger Items serie is uitgevoerd in de kleur chroom. De beweegbare armen bieden plaats aan twee handdoeken en geven een optimale invulling aan de ruimte rondom de wastafel. Het 2-armige handdoekrek is eenvoudig te beves",
+            "lister_data": "{\"code\":\"000000000005020536\",\"name\":\"Tiger handdoekrek Items 2-armig RVS chroom\",\"url\":\"/c//p/000000000005020536\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":69.99,\"priceType\":\"BUY\",\"formattedValue\":\"69,99 €\"},\"baseProduct\":\"base_5020536\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5020536/s01/origin.png\",\"altText\":\"Tiger handdoekrek Items 2-armig RVS chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912837000\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Schroeven",
+            "groups": [
+                {
+                    "group_id": "l52",
+                    "display_name": "Handdoekrekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger handdoekrek Items 2-armig RVS chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2510311",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/toiletrolhouders/tiger-reserverolhouder-items-rvs-geborsteld/2510311",
+            "Prijs": 36.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2510311/s01/origin.png",
+            "core_gtin": 4008912829012,
+            "description": "De reserverolhouder uit de Tiger Items serie is uitgevoerd in de kleur RVS geborsteld en biedt plaats aan twee rollen toiletpapier. Met dit accessoire zijn extra rollen toiletpapier op fraaie wijze op te bergen nabij het toilet zodat er altijd voldoe",
+            "lister_data": "{\"code\":\"000000000002510311\",\"name\":\"Tiger reserverolhouder Items RVS geborsteld\",\"url\":\"/c//p/000000000002510311\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":36.99,\"priceType\":\"BUY\",\"formattedValue\":\"36,99 €\"},\"baseProduct\":\"base_2510311\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2510311/s01/origin.png\",\"altText\":\"Tiger reserverolhouder Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912829012\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l38",
+                    "display_name": "Toiletrolhouders",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger reserverolhouder Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5353018",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/toiletrolhouders/tiger-toiletrolhouder-items-rvs-geborsteld/5353018",
+            "Prijs": 42.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5353018/s01/origin.png",
+            "core_gtin": 4008912815015,
+            "description": "De toiletrolhouder uit de Items serie van Tiger is uitgevoerd in de kleur RVS geborsteld. De toiletrolhouder is eenvoudig op de gewenste positie aan de wand te monteren waardoor toiletpapier altijd binnen handbereik is. Bij de montage wordt gebruik g",
+            "lister_data": "{\"code\":\"000000000005353018\",\"name\":\"Tiger toiletrolhouder Items RVS geborsteld\",\"url\":\"/c//p/000000000005353018\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":42.99,\"priceType\":\"BUY\",\"formattedValue\":\"42,99 €\"},\"baseProduct\":\"base_5353017\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5353018/s01/origin.png\",\"altText\":\"Tiger toiletrolhouder Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912815015\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l38",
+                    "display_name": "Toiletrolhouders",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger toiletrolhouder Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "5020537",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekrekken/tiger-handdoekrek-items-dubbel-chroom/5020537",
+            "Prijs": 84.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/5020537/s01/origin.png",
+            "core_gtin": 4008912836003,
+            "description": "Het handdoekrek uit de Tiger Items serie is uitgevoerd in chroom en biedt plaats aan twee handdoeken. Het accessoire kun je eenvoudig aan de muur bevestigen zonder dat de bijgeleverde bevestigingsmaterialen zichtbaar zijn. Het Items concept bestaat u",
+            "lister_data": "{\"code\":\"000000000005020537\",\"name\":\"Tiger handdoekrek Items dubbel chroom\",\"url\":\"/c//p/000000000005020537\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":84.99,\"priceType\":\"BUY\",\"formattedValue\":\"84,99 €\"},\"baseProduct\":\"base_5020537\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/5020537/s01/origin.png\",\"altText\":\"Tiger handdoekrek Items dubbel chroom\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912836003\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "core_sales_unit_content": 1.0,
+            "core_sales_unit_content_uom": "PC",
+            "Bevestiging/aanbreng methode": "Tigerfix 1",
+            "groups": [
+                {
+                    "group_id": "l52",
+                    "display_name": "Handdoekrekken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger handdoekrek Items dubbel chroom",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2510337",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekhaken/tiger-haak-items-rvs-geborsteld/2510337",
+            "Prijs": 13.99,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2510337/s01/origin.png",
+            "core_gtin": 4008912845012,
+            "description": "De haak uit de Tiger Items serie is uitgevoerd in de kleur RVS geborsteld en voorzien van dubbelzijdige tape waardoor het artikel in een handomdraai te monteren is. De haak is geschikt voor het ophangen van artikelen tot een gewicht van 1 kg. Het Ite",
+            "lister_data": "{\"code\":\"000000000002510337\",\"name\":\"Tiger haak Items RVS geborsteld\",\"url\":\"/c//p/000000000002510337\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":13.99,\"priceType\":\"BUY\",\"formattedValue\":\"13,99 €\"},\"baseProduct\":\"base_2510337\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2510337/s01/origin.png\",\"altText\":\"Tiger haak Items RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912845012\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "Bevestiging/aanbreng methode": "Plakstrip",
+            "groups": [
+                {
+                    "group_id": "l36",
+                    "display_name": "Handdoekhaken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger haak Items RVS geborsteld",
+        "is_slotted": false
+    },
+    {
+
+        "data": {
+            "id": "2510345",
+            "url": "/badkamer-keuken-wonen/badkamer/badkameraccessoires/handdoekhaken/tiger-haak-items-groot-rvs-geborsteld/2510345",
+            "Prijs": 16.49,
+            "image_url": "https://d1q18l3xihwouw.cloudfront.net/products/2510345/s01/origin.png",
+            "core_gtin": 4008912846019,
+            "description": "De Tiger Items haak groot is uitgevoerd in de kleur RVS geborsteld. De haak is eenvoudig te monteren op diverse ondergronden met de bijgeleverde bevestigingsmaterialen en geschikt voor een belasting tot 3 kg. Bij de montage wordt gebruik gemaakt van ",
+            "lister_data": "{\"code\":\"000000000002510345\",\"name\":\"Tiger haak Items groot RVS geborsteld\",\"url\":\"/c//p/000000000002510345\",\"purchasable\":true,\"availableForPickup\":true,\"price\":{\"currencyIso\":\"EUR\",\"value\":16.49,\"priceType\":\"BUY\",\"formattedValue\":\"16,49 €\"},\"baseProduct\":\"base_2510345\",\"images\":[{\"imageType\":\"PRIMARY\",\"format\":\"cartIcon\",\"url\":\"https://d1q18l3xihwouw.cloudfront.net/products/2510345/s01/origin.png\",\"altText\":\"Tiger haak Items groot RVS geborsteld\"}],\"potentialPromotions\":[{\"code\":\"Praxis week xx 3 voor 15,- group sku test SL\",\"priority\":3000,\"promotionGroup\":\"bundleFixedPriceRuleGroup\",\"promoValue\":\"Bonus buys\",\"qualifiedQuantity\":3,\"actionQuantity\":3,\"amount\":5.0,\"isPercentage\":false,\"sameProducts\":true}],\"deliveryModes\":[{\"code\":\"SHDPOSTNLPRAXIS\",\"name\":\"PostNL Praxis\",\"description\":\"Minimum bestelwaarde bedraagt 50euro. Levertijden zijn momenteel langer. Je ontvangt een e-mail zodra je bestelling klaar staat voor verzending.\"},{\"code\":\"PICKUP\",\"name\":\"Click&Reserve \",\"description\":\"wij halen het uit onze winkel en leggen het 48 uur voor je apart. Je betaalt in de winkel.\"}],\"ean\":\"4008912846019\",\"brands\":[{\"code\":\"TIGE\",\"url\":\"/Tiger/c/TIGE\",\"name\":\"Tiger\"}],\"discontinued\":false}",
+            "deactivated": false,
+            "Kortingsacties": "Aanbiedingen",
+            "Bevestiging/aanbreng methode": "Schroeven",
+            "groups": [
+                {
+                    "group_id": "l36",
+                    "display_name": "Handdoekhaken",
+                    "path": "/catalog01/l1/l2/l33",
+                    "path_list": [
+                        {
+                            "id": "catalog01",
+                            "display_name": "catalog01"
+                        },
+                        {
+                            "id": "l1",
+                            "display_name": "Badkamer, Keuken&Wonen"
+                        },
+                        {
+                            "id": "l2",
+                            "display_name": "Badkamer"
+                        },
+                        {
+                            "id": "l33",
+                            "display_name": "Badkameraccessoires"
+                        }
+                    ]
+                }
+            ]
+        },
+        "value": "Tiger haak Items groot RVS geborsteld",
+        "is_slotted": false
+    }
+]
+
+}

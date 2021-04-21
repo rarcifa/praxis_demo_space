@@ -1,0 +1,87 @@
+/* ---------------------------------- */
+/* job
+------------------------------------- */
+
+.job-list{
+    .job-details {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        padding: 20px 0 ; 
+        border-bottom: 1px solid #e4e4e4;
+
+        .job-logo {
+            flex: 1;
+            max-width: 55px;
+            margin-right: 25px;
+            position: relative;
+            top: 3px;
+
+            img {
+                border-radius: 4px;
+                transform: translate3d(0, 0, 0);
+            }
+        }
+
+        .job-description {
+            flex: 1;
+            padding-top: 3px;
+
+            h4 {
+                font-size: 15.5px;
+                color: #808080;
+                margin-bottom: 1px;
+            }
+
+            h3 {
+                font-size: 20px;
+                color: #333;
+                line-height: 30px;
+                font-weight: 500;
+            }
+
+            p {
+                margin: 15px 0 0 0;
+                padding: 0;
+                color: #666;
+            }
+        }
+          
+        .job-tags {
+            margin-top: 12px;
+        }
+          
+        .job-tags a {
+            height: 28px;
+            padding: 6px 13px;
+            font-size: 12.5px;
+            line-height: 26px;
+            margin-right: 6px;
+            font-weight: 500;
+            color: #4c4c4c;
+            background-color: #ececec;
+            border-radius: 7px;
+        }
+
+      }
+
+}
+
+ 
+  
+  @media (max-width: 960px) {
+
+    .job-details {
+        .job-description h3 {
+            font-size: 18px  !important;
+            line-height: 25px  !important;
+            font-weight: 600  !important;
+        }
+        .job-description  p ,
+        .job-tags {
+            margin-left: -70px !important;
+        }
+    }
+
+  }
+  
