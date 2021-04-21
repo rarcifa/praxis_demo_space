@@ -1,9 +1,6 @@
 import React, { useState } from 'react';
 import ItemsCarousel from 'react-items-carousel';
-import { faChevronRight } from '@fortawesome/free-solid-svg-icons'
-import { faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 import Carousel from 'react-bootstrap/Carousel'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // CTF props
@@ -54,8 +51,6 @@ export default function Category({ data }) {
             activeItemIndex={activeItemIndex}
             numberOfCards={5}
             gutter={20}
-            leftChevron={<button className="btn btn-light border-black">{<FontAwesomeIcon icon={faChevronLeft} />}</button>}
-            rightChevron={<button className="btn btn-light border-black">{<FontAwesomeIcon icon={faChevronRight} />}</button>}
             outsideChevron
             chevronWidth={chevronWidth}
           >
