@@ -1,13 +1,9 @@
 import React, { useState } from 'react';
 import ItemsCarousel from 'react-items-carousel';
-import { faChevronRight, faClock } from '@fortawesome/free-solid-svg-icons'
-import { faChevronLeft } from '@fortawesome/free-solid-svg-icons'
-import Carousel from 'react-bootstrap/Carousel'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import moment from 'moment';
 
-const element = <FontAwesomeIcon icon={faClock} />
+
 // CTF props
 const contentful = require('contentful');
 
@@ -61,8 +57,7 @@ export default function Category({ data, blog }) {
             activeItemIndex={activeItemIndex}
             numberOfCards={5}
             gutter={20}
-            leftChevron={<button className="btn btn-light border-black">{<FontAwesomeIcon icon={faChevronLeft} />}</button>}
-            rightChevron={<button className="btn btn-light border-black">{<FontAwesomeIcon icon={faChevronRight} />}</button>}
+
             outsideChevron
             chevronWidth={chevronWidth}
           >
@@ -186,7 +181,7 @@ const BlogPost = ({ node }) => {
         <div className="top">
           <img alt={node.fields.title} src={(node.fields.featuredImage.fields.file.url + "?fit=crop&w=600&h=500")} />
           <div className="container">
-            <div className="card-text"><small><span className="light-grey mr-1">{element}</span><span className="text-muted">{moment(node.fields.publicationDate).format("MMM Do YY")}</span></small></div>
+            <div className="card-text"><small><span className="light-grey mr-1"></span><span className="text-muted">{moment(node.fields.publicationDate).format("MMM Do YY")}</span></small></div>
             <a className="text-dark" href={"/blog-post/" + node.fields.slug}><b>{node.fields.title}</b></a>
             <div className="grey truncate"><small>{node.fields.content}</small></div>
           </div>
