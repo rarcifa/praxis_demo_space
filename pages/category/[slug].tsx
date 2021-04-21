@@ -181,7 +181,7 @@ const BlogPost = ({ node }) => {
         <div className="top">
           <img alt={node.fields.title} src={(node.fields.featuredImage.fields.file.url + "?fit=crop&w=600&h=500")} />
           <div className="container">
-            <div className="card-text"><small><span className="light-grey mr-1"></span><span className="text-muted">{moment(node.fields.publicationDate).format("MMM Do YY")}</span></small></div>
+            <div className="card-text"><small><span className="light-grey"></span><span className="text-muted">{moment(node.fields.publicationDate).format("MMM Do YY")}</span></small></div>
             <a className="text-dark" href={"/blog-post/" + node.fields.slug}><b>{node.fields.title}</b></a>
             <div className="grey truncate"><small>{node.fields.content}</small></div>
           </div>
