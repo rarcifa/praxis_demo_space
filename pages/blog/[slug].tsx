@@ -4,7 +4,6 @@ import { faChevronRight } from '@fortawesome/free-solid-svg-icons'
 import { faChevronLeft } from '@fortawesome/free-solid-svg-icons'
 import Carousel from 'react-bootstrap/Carousel'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import "@fortawesome/fontawesome-svg-core/styles.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // CTF props
